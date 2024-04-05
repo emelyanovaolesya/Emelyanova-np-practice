@@ -235,3 +235,6 @@
 [submodule "Eme"]
 	path = Eme
 	url = https://github.com/emelyanovaolesya/Eme.git
+[submodule "7_TCP_server"]
+	path = 7_TCP_server
+	url = https://github.com/emelyanovaolesya/7_TCP_server.git
